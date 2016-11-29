@@ -1,1 +1,1 @@
-# emo_app
+# demo_app
